@@ -16,7 +16,9 @@ A simple Django test app with Group/Permissions/Restricted Views.
 ## Users 
 
 admin / 123456
+
 user1 / 123456
+
 user2 / 123456
 
 
